@@ -1,6 +1,6 @@
-# aws-3tier-architecture
+# aws-architecture
 
-# AWS 3層Webアーキテクチャ構築
+# AWS Route53 / ACM / HTTPS構築
 
 ## ■ 概要
 
