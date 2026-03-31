@@ -1,10 +1,9 @@
 # Route53-ACM-HTTPS-
 AWS Webアーキテクチャ構築（Route53 / ACM / HTTPS対応）
-aws-3tier-architecture
-AWS 3層Webアーキテクチャ構築
 
 ■ 概要
-AWS環境にて、VPC・EC2・RDS・ALBを用いた3層Webシステムを構築し、独自ドメイン設定およびHTTPS化まで実装しました。
+AWS環境にて、VPC・EC2・RDS・ALBを用いた3層Webシステムを構築し、
+独自ドメイン設定およびHTTPS化まで実装しました。
 
 ■ 構成
 VPC
